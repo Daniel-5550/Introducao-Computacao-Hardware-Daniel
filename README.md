@@ -1,2 +1,38 @@
 # Introducao-Computacao-Hardware
-Atividade de introdução a computação
+# Atividade de introdução a computação
+# **Investigação de Hardware: PDP-1(Programmed Data Processor-1) 1959**
+
+O computador PDP-1 marcou uma mudança radical em como os computadores eram pensados em sua época, foi o primeiro computador comercial com foco na interação com o usuário, em vez de apenas ser eficiente nos ciclos de processamento, apesar de poucas unidades (cerca de 50), foi chamado de revolucionário pois além de ser uma máquina com uma acessibilidade maior para o público, foi o início de uma área conhecida como os minicomputadores, e a criação das interfaces que um dia se tornaram o que temos hoje.O PDP-1 era muito utilizado para uma ampla gama de processos  como: controle de processos, pesquisas científicas, aplicações gráficas e entre outros. Além de suas funções o mesmo possibilitou, que pequenas empresas pudessem adquirir uma máquina muito mais potente, e menos espaçosa.
+![PDP_1](https://upload.wikimedia.org/wikipedia/commons/f/f0/DEC_PDP-1_Demo_Lab_at_Mountain_View%27s_Computer_History_Museum.jpg) 
+
+A inovação foi tanta que foi com este auxílio desta máquina a qual foi criada a cultura hacker no Instituto de Tecnologia de Massachusetts (MIT), ba Bolt Beranek and Newman(BB&N), entre outros, que logo também acabou inspirando outras pessoas a criarem seus próprios programas, incluindo vídeo games, aplicativos de edição de texto, música, entre outros que demonstraram a tamanha mudança de uma invenção no ramo tecnológico.
+
+A máquina em sí era feita utilizando o produto inicial da DEC, a qual era composta por uma série de circuitos interconecáveis conhecidos conhecidos como “Módulos de laboratório”, o engenheiro responsável Ben Gurley projetou um PDP ( processador de dados programado), digital de estado sólido de alta velocidade, sendo o PDP-1 considerado o primeiro computador interativo comercial, realizava também operações em palavras de 18 bits por meio da aritmética do complemento de 2, seu sistema era baseado nos computadores TX-0(um dos primeiros computadores completamente transistorizados, com uma enorme memória para a época de 64kb de palavras em 18 bits, a máquina incorporava cerca de 3600 transistores)![TX-0](https://images.computerhistory.org/pdp-1/tx-o.first_transistor_computer_ca1956.102622467.lg.jpg)
+
+e o TX-2
+
+![TX-2](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TX-2_mod_top.jpg/250px-TX-2_mod_top.jpg)
+
+(sucessor do TX-0, sendo principalmente pensado para a acessibilidade humano/máquina, tendo agora 64k de palavras em 36 bits, agora também podendo ser utilizado por meio de uma tela gráfica) sendo o TX-2 sido feito apenas 1 ano antes do PDP-1.
+
+Entre seus periféricos continha: uma fita de papel perfurada e sanfonada como principal meio de armazenamento![fita de papel](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Punched_tape.jpg/500px-Punched_tape.jpg)
+
+uma máquina de escrever fornecida pela Soroban Engineering, era uma máquina de escrever modificada pela adição de interruptores para detectar pressionamentos de teclas e solenoides para ativar as barras de tipos, porém o equipamento não era confiável e emperrava com certa facilidade![máquina de escrever](https://cdn-br.propcart.com/vendors/GHR3ccj9ojGHIuIwUToA/items/GU00856-1.jpg)
+
+um display CRT de precisão tipo 30, capaz de endereçar 1024 por 1024 locais endereçáveis a uma taxa de 20000 por segundo, o mesmo foi produzido originalmente para ser um radar, porém modificado para virar uma tela![display](https://tek2049.com/assets/retro-computing/dec-pdp-minicomputers/pdp1_spacewar-1962.jpg)
+
+além de uma caneta óptica a qual era opcional, funcionava para selecionar pontos na tela![caneta](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HypertextEditingSystemConsoleBrownUniv1969.jpg/500px-HypertextEditingSystemConsoleBrownUniv1969.jpg)
+
+Porém partindo aos dias de hoje tudo o que já foi inovador um dia hoje se torna comum ou antiquado, por exemplo: o PDP-1 era considerado um mini computador tendo apenas o tamanho de um armário inteiro apenas com seu gabinete, o que antigamente era pequeno mas nos dias de hoje além de termos computadores menores do que um grão de arroz, os de tamanho normal não passam em média de seus 50cm ou então notebooks sendo muito menores se comparados, temos os processadores o que hoje em dia são das menores do que uma mão já nos computadores normais, com o PDP-1 podendo ler palavras de 18 bits, se for fazer uma comparação direta um computador médio nos dias de hoje conseguiria fazer o processamento de mais ou menos 10 a 50 bilhões de palavras em 18 bits por segundo, já em memória temos no PDP-1 padrão um limite de 4096 palavras de 18 bits, podendo ser expandido para até 64 mil, já uma memória ram padrão de 8gb nos dias de hoje pode guardar mais ou menos 3,82 bilhões de palavras, já o armazenamento quase não é comparável pois no PDP-1 é um papel furado, ja nos dias de hoje temos Hd’s com mais de 20 teras.
+
+Após temos os periféricos como: monitor com seus 1024x1024 composição essa a qual não é ruim porém hoje temos monitores de até 8k contendo seus 7680x4320, pelo menos 4x mais, o monitor do PDP-1 consegue fazer a atualização de até 20.000 pontos por segundo, já os atuais conseguem atualizar todos os 1920x1080 pontos ao mínimo 60 vezes por segundo, com alguns conseguindo fazer isso mais de 540 vezes por segundo. Em seguida temos o “teclado” o qual na época era uma máquina de escrever, que por utilizar de muitos meios mecânicos para funcionar acabava travando constantemente, pois cada ação para ser feita dependia do movimento de muitos componentes físicos, já os teclados de hoje em dia temos muitas diferenças como: menos peças mecânicas sendo teclas magnéticas, funções computadorizadas, alguns sem necessidade nem de ligação direta apenas usando bluetooth e apenas o uso de placas chamadas placas de circuíto impresso (PCB), assim possuindo menos partes mecânicas se movendo garantindo menos falhas no uso. O mais próximo de um mouse seria a caneta óptica, que tinha a função de selecionar algum conteúdo da tela, desenhar na mesma mais ou menos como uma tela touch, já um mouse de hoje em dia temos estas funções, temos uma grande variedade de botões com muitas funções dentro da máquina, vários controles de sensor, ou então temos até as canetas de celulares, tablets ou notebooks, as quais também têm as mesmas funções, algumas contendo botões, porém ao invés de serem cabeadas são a bateria por meio do bluetooth.
+
+Estas diferenças mostram a tamanha evolução que a tecnologia deu de uma era para a outra porém mostra como as raízes ainda são implantadas e como elas ajudaram a um tempo atrás e ajudam até os dias de hoje a indústria da tecnologia, pois mesmo tendo grandes melhorias, ainda sim utilizamos a base criada a décadas atrás.
+
+
+fontes:
+[Computer History Museum PDP-1](https://www.computerhistory.org/pdp-1/)
+[Wikipédia PDP-1](https://pt.wikipedia.org/wiki/PDP-1)
+[Wikipédia TX-2](https://en.wikipedia.org/wiki/TX-2)
+[Wikipédia Tx-0](https://en.wikipedia.org/wiki/TX-0)
+[Gemini curiosidades](https://www.google.com/aclk?sa=L&ai=DChsSEwijpN3_y6KTAxWAaEgAHbVSJ3cYACICCAEQABoCY2U&ae=2&co=1&ase=2&gclid=Cj0KCQjwsdnNBhC4ARIsAA_3hegbmocWXjmfv7tgNtLv-mXncO5eNmSLjb9W7Y0b_SM2sMHsGyrV1a0aAl3tEALw_wcB&cid=CAAS3gHkaAuYSdvQaZsVbNKIO_H00yIlfuIgMStiV8CUmI4a_bf3bZL5RY-561SzIqb7HY1ZZe7W6-_aG0vNy12W8MQvqeO1ANViQdBIYIOFnyvhevr_OaJLxbaQronEeA5sESPIxVfCv6ckSyX_IyUfRI_J1W8dy5p6op2CORkPeDdBglWC5HveyzGvXvP-pdtY84Xv5X6mEb9RXEkVV1MXEZnLISwS-SNPR5Tfrd5k3ba8QFZjyrBgqgGGlHT_VnoRe58Ve-Do2QzCJ5vRDJCv_Da5cHCsiGUPU3CpNI-DYjE&cce=2&category=acrcp_v1_71&sig=AOD64_1TW7OZTFLNEZc2kk8Y33TpBa0xcA&q&nis=4&adurl&ved=2ahUKEwjcvdf_y6KTAxV6LLkGHbujN70Q0Qx6BAgyEAE)
