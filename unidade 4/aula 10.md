@@ -9,23 +9,25 @@ Compreender a evolução das redes de computadores, identificar seus elementos b
 Cada grupo deve incluir neste repositório:
 
 ### 1. Linha do Tempo
-- Representação dos principais marcos da evolução das redes (mainframes, ARPANET, TCP/IP, Internet comercial, redes móveis).
-- Pode ser em formato de imagem, PDF ou slides.
+* **Década de 1950 - Mainframes:** Sistemas isolados onde o processamento era centralizado em máquinas gigantes pesando toneladas, funcionamento com válvulas a vácuo e focadas em processamento comercial.
+* **1969 - ARPANET:** O precursor da internet moderna, utilizando a primeira comutação de pacotes entre universidades, rede descentralizada e com envios separados em partes menores para mais eficiência.
+* **1983 - Protocolo TCP/IP:** Adoção do padrão que permitiu a comunicação entre diferentes tipos de redes, unificando a rede global, TCP: garante a integridade dos dados, IP: garante o roteamento e evolução da ARPANET para internet global.
+* **Anos 90 - Internet Comercial:** Surgimento da World Wide Web (WWW) e a popularização do acesso para o público geral, conexão discada ruidosa e lenta, chegada dos primeiros sites da internet.
+* **Anos 2000 - Mobilidade e Wi-Fi:** Expansão das redes sem fio e o início da internet móvel (3G), surgimento do WI-FI, a internet começava a se tornar um meio de comunicação.
+* **Hoje - 5G e IoT:** Alta velocidade, baixíssima latência e a conexão de bilhões de dispositivos inteligentes IOT(Internet das Coisas), Utilização de redes móveis para fins industriais e de alto risco, combinação com IA e locais inteligentes, eficiência energética ao utilizar os IOT.
 
 ### 2. Elementos da Rede
-- Esquema ilustrando os quatro elementos fundamentais:
-  - **Emissor**
-  - **Receptor**
-  - **Meio de Transmissão**
-  - **Protocolo**
-- Exemplos práticos com dispositivos reais.
+1.  **Emissor:** Dispositivo que transmite uma mensagem.
+    * *Exemplo:* Uma mensagem enviada para alguém.
+2.  **Receptor:** Dispositivo que recebe a mensagem enviada.
+    * *Exemplo:* Uma impressora de escritório.
+3.  **Meio de Transmissão:** O caminho físico ou sem fio por onde os dados trafegam.
+    * *Exemplo:* Cabos de par trançado (Ethernet) ou ondas de rádio (Wi-Fi).
+4.  **Protocolo:** Regras que garantem o entendimento das máquinas.
+    * *Exemplo:* **HTTP/HTTPS** para navegação web ou **FTP** para transferência de arquivos.
 
 ### 3. Classificação de Redes
-- Quadro comparativo ou mapa conceitual com exemplos reais:
-  - **PAN** – Bluetooth entre celular e fone de ouvido.
-  - **LAN** – Rede doméstica ou de laboratório.
-  - **MAN** – Rede de uma universidade ou prefeitura.
-  - **WAN** – Internet.
+![Quadro comparativo](blob:https://gemini.google.com/f817a840-4c66-4dde-84f0-97a27202a98a)
 
 ## Organização dos Arquivos
 - Criar uma pasta com o nome do grupo (ex.: `Grupo1_Windows`, `Grupo2_Linux`).
