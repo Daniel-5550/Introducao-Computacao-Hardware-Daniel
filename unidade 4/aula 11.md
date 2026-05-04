@@ -23,4 +23,11 @@
 - Esquema visual mostrando como os meios conectam os dispositivos.
 ![Quadro comparativo](./meios_transmissao.png)
 
+fontes: 
+https://beginnersbook.com/2021/12/types-of-transmission-media-guided-and-unguided/
+[Redes de computadores (TANENBAUM)](https://plataforma.bvirtual.com.br)
+[Meios de transmissão não guiados](https://beginnersbook.com/2021/12/types-of-transmission-media-guided-and-unguided/)
+[Meios de transmissão guiados](https://estudoderedes.wordpress.com/2012/01/17/meios-de-transmissao-guiados/)
+[curiosidades e informações adicionais](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
+
 
