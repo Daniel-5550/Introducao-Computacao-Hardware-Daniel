@@ -5,7 +5,7 @@
 ![Quadro comparativo](./diagrama1.png)
 
 ### 2. Quadro Comparativo de Dispositivos
-![Quadro comparativo](./diagrama1.png)
+![Quadro comparativo](./comparativo.png)
 
 ### 3. Meios de Transmissão
 - Classificação dos meios de transmissão em:
