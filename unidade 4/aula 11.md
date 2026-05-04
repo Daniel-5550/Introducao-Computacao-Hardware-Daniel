@@ -5,10 +5,7 @@
 ![Quadro comparativo](./diagrama1.png)
 
 ### 2. Quadro Comparativo de Dispositivos
-- Comparação entre **Hub, Switch e Roteador**, destacando:
-  - Função principal
-  - Vantagens e limitações
-  - Exemplos de uso real
+![Quadro comparativo](./diagrama1.png)
 
 ### 3. Meios de Transmissão
 - Classificação dos meios de transmissão em:
