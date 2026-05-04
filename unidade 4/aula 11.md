@@ -23,20 +23,6 @@
 - Esquema visual mostrando como os meios conectam os dispositivos.
 ![Quadro comparativo](./meios_transmissao.png)
 
-## Organização dos Arquivos
-- Criar uma pasta com o nome da atividade (ex.: `TopologiaEstrela`, `Dispositivos`).
-- Dentro da pasta, incluir:
-  - `topologia.png` ou `topologia.pdf`
-  - `dispositivos.pdf` ou `dispositivos.png`
-  - `meios_transmissao.pdf` ou `meios_transmissao.png`
-  - `README.md` com breve descrição do trabalho.
-
-## Critérios de Avaliação
-- Clareza e organização dos diagramas.
-- Correção conceitual na classificação dos dispositivos e meios.
-- Exemplos práticos bem escolhidos.
-- Referências utilizadas:
-
 ## Reflexão Individual
 Cada integrante deve produzir um texto curto (1 página) respondendo:  
 **“Qual topologia seria mais adequada para a rede da sua residência e por quê?”**
