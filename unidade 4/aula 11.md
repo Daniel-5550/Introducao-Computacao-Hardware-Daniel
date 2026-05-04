@@ -23,6 +23,4 @@
 - Esquema visual mostrando como os meios conectam os dispositivos.
 ![Quadro comparativo](./meios_transmissao.png)
 
-## Reflexão Individual
-Cada integrante deve produzir um texto curto (1 página) respondendo:  
-**“Qual topologia seria mais adequada para a rede da sua residência e por quê?”**
+
