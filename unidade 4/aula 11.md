@@ -24,7 +24,6 @@
 ![Quadro comparativo](./meios_transmissao.png)
 
 fontes: 
-https://beginnersbook.com/2021/12/types-of-transmission-media-guided-and-unguided/
 [Redes de computadores (TANENBAUM)](https://plataforma.bvirtual.com.br)
 
 [Meios de transmissão não guiados](https://beginnersbook.com/2021/12/types-of-transmission-media-guided-and-unguided/)
