@@ -5,7 +5,7 @@
 ![Quadro comparativo](diagrama1.png)
 
 ### 2. Quadro Comparativo de Dispositivos
-![Quadro comparativo](./comparativo.png)
+![Quadro comparativo](comparativo.png)
 
 ### 3. Meios de Transmissão
 ### Meios Guiados (Com fio)
@@ -21,7 +21,7 @@
 5.  **Rádio:** São ondas eletromagnéticasde frequência muito baixa que se transmitem em todas as direções dentro do seu alcance (entre 3Khz a 1Ghz), antenas não precisam ter um alinhamento estratégico, rede adequada para uso em longas distâncias, o sinal atravessa paredes, porém não é possivel isolar a comunicação e também pode sofrer de interferência se outra frequência igual ou parecida estiver próxima.
 6.  **micro-ondas:** Nesse tipo de transmissão por micro-ondas, as antenas do transmissor e do receptor estão em linha reta uma com a outra, custo baixo por não precisar de torre de comunicação, conexão lenta e sujeita a interferência, pode ser implementada em zonas de difícil acesso como montanhas, porém é pouco segura sujeita a escutas.
 - Esquema visual mostrando como os meios conectam os dispositivos.
-![Quadro comparativo](./meios_transmissao.png)
+![Quadro comparativo](meios_transmissao.png)
 
 fontes: 
 [Redes de computadores (TANENBAUM)](https://plataforma.bvirtual.com.br)
