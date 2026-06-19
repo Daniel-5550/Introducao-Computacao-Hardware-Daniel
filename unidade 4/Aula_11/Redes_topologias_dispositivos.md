@@ -2,10 +2,10 @@
 
 ### 1. Diagramas de Topologias
 - Representação das principais topologias de rede:
-![Diagrama de Topologias](_diagrama1.png)
+![Diagrama de Topologias](./diagrama1.png)
 
 ### 2. Quadro Comparativo de Dispositivos
-![Quadro Comparativo de Dispositivos](_comparativo.png)
+![Quadro Comparativo de Dispositivos](./comparativo.png)
 ### 3. Meios de Transmissão
 ### Meios Guiados (Com fio)
 1.  **Par Trançado (UTP/STP):** Um entrelaçado de fios de cobre, largura da banda depende da epsessura do cabo, muito utilizado em lan, utiliza conectores RJ45.
@@ -20,7 +20,7 @@
 5.  **Rádio:** São ondas eletromagnéticasde frequência muito baixa que se transmitem em todas as direções dentro do seu alcance (entre 3Khz a 1Ghz), antenas não precisam ter um alinhamento estratégico, rede adequada para uso em longas distâncias, o sinal atravessa paredes, porém não é possivel isolar a comunicação e também pode sofrer de interferência se outra frequência igual ou parecida estiver próxima.
 6.  **micro-ondas:** Nesse tipo de transmissão por micro-ondas, as antenas do transmissor e do receptor estão em linha reta uma com a outra, custo baixo por não precisar de torre de comunicação, conexão lenta e sujeita a interferência, pode ser implementada em zonas de difícil acesso como montanhas, porém é pouco segura sujeita a escutas.
 - Esquema visual mostrando como os meios conectam os dispositivos.
-![Esquema de Meios de Transmissão](_meios_transmissao.png)
+![Esquema de Meios de Transmissão](./meios_transmissao.png)
 
 fontes: 
 [Redes de computadores (TANENBAUM)](https://plataforma.bvirtual.com.br)
