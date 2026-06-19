@@ -20,7 +20,7 @@
 5.  **Rádio:** São ondas eletromagnéticasde frequência muito baixa que se transmitem em todas as direções dentro do seu alcance (entre 3Khz a 1Ghz), antenas não precisam ter um alinhamento estratégico, rede adequada para uso em longas distâncias, o sinal atravessa paredes, porém não é possivel isolar a comunicação e também pode sofrer de interferência se outra frequência igual ou parecida estiver próxima.
 6.  **micro-ondas:** Nesse tipo de transmissão por micro-ondas, as antenas do transmissor e do receptor estão em linha reta uma com a outra, custo baixo por não precisar de torre de comunicação, conexão lenta e sujeita a interferência, pode ser implementada em zonas de difícil acesso como montanhas, porém é pouco segura sujeita a escutas.
 - Esquema visual mostrando como os meios conectam os dispositivos.
-![Esquema de Meios de Transmissão](/Unidade%204/Aula_11/meios_transmissao.png)
+![Esquema de Meios de Transmissão](https://github.com/Daniel-5550/Introducao-Computacao-Hardware-Daniel/blob/main/unidade%204/Aula_11/%20meios_transmissao.png)
 
 fontes: 
 [Redes de computadores (TANENBAUM)](https://plataforma.bvirtual.com.br)
