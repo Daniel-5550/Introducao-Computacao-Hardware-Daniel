@@ -27,7 +27,7 @@ Cada grupo deve incluir neste repositório:
     * *Exemplo:* **HTTP/HTTPS** para navegação web ou **FTP** para transferência de arquivos.
 
 ### 3. Classificação de Redes
-![Quadro comparativo](../imagem.png)
+![Comparativo](https://github.com/Daniel-5550/Introducao-Computacao-Hardware-Daniel/blob/main/unidade%204/Aula_10/Imagens/imagem.png)
 
 ## Organização dos Arquivos
 - Criar uma pasta com o nome do grupo (ex.: `Grupo1_Windows`, `Grupo2_Linux`).
