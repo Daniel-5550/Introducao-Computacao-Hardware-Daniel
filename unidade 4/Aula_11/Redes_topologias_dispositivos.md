@@ -2,7 +2,7 @@
 
 ### 1. Diagramas de Topologias
 - Representação das principais topologias de rede:
-![Diagrama de Topologias](/Unidade%204/Aula_11/diagrama1.png)
+![Diagrama de Topologias]([/Unidade%204/Aula_11/diagrama1.png](https://github.com/Daniel-5550/Introducao-Computacao-Hardware-Daniel/blob/main/unidade%204/Aula_11/%20meios_transmissao.png))
 
 ### 2. Quadro Comparativo de Dispositivos
 ![Quadro Comparativo de Dispositivos](/Unidade%204/Aula_11/comparativo.png)
