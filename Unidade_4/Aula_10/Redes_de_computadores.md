@@ -27,7 +27,7 @@ Cada grupo deve incluir neste repositório:
     * *Exemplo:* **HTTP/HTTPS** para navegação web ou **FTP** para transferência de arquivos.
 
 ### 3. Classificação de Redes
-![Comparativo](https://github.com/Daniel-5550/Introducao-Computacao-Hardware-Daniel/blob/main/unidade%204/Aula_10/Imagens_/imagem.png)
+![Comparativo](https://github.com/Daniel-5550/Introducao-Computacao-Hardware-Daniel/blob/main/Unidade_4/Aula_10/Imagens_/imagem.png)
 
 
 ![Livro de Rede de computadores do Tanenbaum](https://m.media-amazon.com/images/I/91uoaAYJkrL._SY425_.jpg)
