@@ -2,7 +2,7 @@
 
 ### 1. Diagramas de Topologias
 - Representação das principais topologias de rede:
-![Quadro comparativo](./diagrama1.png)
+![Quadro comparativo](diagrama1.png)
 
 ### 2. Quadro Comparativo de Dispositivos
 ![Quadro comparativo](./comparativo.png)
